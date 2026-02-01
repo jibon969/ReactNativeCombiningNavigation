@@ -1,7 +1,7 @@
 
 
 
-<img src="./src/assets/icon/logo.png" id='header'>
+<!-- <img src="./src/assets/icon/logo.png" id='header'> -->
 
 <h1 align="center">ReactNativeCombiningNavigation - React Native Cli App</h1>
 
